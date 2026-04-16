@@ -15,7 +15,7 @@
 * 🐔 **AgroTech CV** — End-to-end CV пайплайн для трекинга объектов (подсчет птиц) с отсевом аномалий.
 
 📫 **Как со мной связаться:**
-- +74957773330
-- Email: maximum@mail.ru
-- tg: @okey_people
-- Открыт к позициям ML Engineer / AI Resecher&Developer.
+- Telegram: [@okey_people](https://t.me/okey_people) (предпочтительный способ связи)
+- Email: maxim@goryachev.ru
+- Телефон: +7 (925) 781-94-22
+- Открыт к позициям ML Engineer / AI Reseacher&Developer.
