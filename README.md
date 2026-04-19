@@ -6,12 +6,16 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain" alt="LangChain">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" alt="OpenCV">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
   <br>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
 </p>
 
 Я **Full-Stack AI / ML Engineer** и **Vibe Coder** нового поколения.
@@ -55,7 +59,7 @@ End-to-end Computer Vision пайплайн для трекинга объект
 
 📫 **Как со мной связаться:**
 * Telegram: [@okey_people](https://t.me/okey_people) (предпочтительный способ связи)
-* Email:[maxim@goryachev.ru](mailto:maxim@goryachev.ru)
+* Email:[ai@goryachev.ru](mailto:ai@goryachev.ru)
 * Телефон: +7 (925) 781-94-22
 * Локация: Москва. Готов к командировкам.
 * Открыт к позициям **ML Engineer / AI Researcher & Developer** или проектным работам с нуля до продакшна.
