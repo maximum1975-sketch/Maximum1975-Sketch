@@ -45,7 +45,7 @@
 * **Инженерия:** Event-Based Structural Labeling и кастомный парсер на базе алгоритма `Sparse Tables (RMQ)` для молниеносного поиска локальных экстремумов (алгоритм "матрешки").
 * **Деплой:** Асинхронный FastAPI-сервер для связи с MetaTrader 4 в реальном времени.
 
-### 🐔 AgroTech CV Tracker
+### 🐔[AgroTech CV Tracker](https://github.com/goryachev-ml/neurojurist-fz229-bot)
 End-to-end Computer Vision пайплайн для трекинга объектов (подсчет цыплят на птицефабрике) с 99% точностью и отсевом аномалий.
 * **Стек:** YOLO + SAM-2 + OpenCV + Streamlit/Gradio. 
 * **Обработка и аугментация:** Подготовка, авторазметка и корректировка датасета (LabelStudio, RoboFlow, VGG)
