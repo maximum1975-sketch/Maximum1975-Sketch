@@ -34,7 +34,7 @@
 
 ## 💼 Ключевые проекты полного цикла (End-to-End, built single-handedly)
 
-### ⚖️[Нейроюрист по ФЗ-229 "Об исполнительном производстве"](https://github.com/goryachev-ml/neurojurist-fz229-bot)
+### ⚖️ [Нейроюрист по ФЗ-229 "Об исполнительном производстве"](https://github.com/goryachev-ml/neurojurist-fz229-bot)
 Полноценный AI-ассистент с **голосовым вводом (Whisper)** для юридических консультаций — RAG-система в виде Telegram-бота с многошаговым пайплайном, включая **LLM-as-judge**, исключающим галлюцинации LLM.
 * **Архитектура:** LangChain + FAISS + Qwen3 (Local LLM) + Async Telegram Bot (имеется рабочий вариант для изолированного контура без выхода в интернет).
 * **Фишка:** Нулевой уровень галлюцинаций за счет 3-шагового пайплайна (Анализ → Генерация → Валидатор) и структурного парсинга федерального закона.
@@ -45,7 +45,7 @@
 * **Инженерия:** Event-Based Structural Labeling и кастомный парсер на базе алгоритма `Sparse Tables (RMQ)` для молниеносного поиска локальных экстремумов (алгоритм "матрешки").
 * **Деплой:** Асинхронный FastAPI-сервер для связи с MetaTrader 4 в реальном времени.
 
-### 🐔[AgroTech CV Tracker](https://github.com/goryachev-ml/agrotech-cv-tracker)
+### 🐔 [AgroTech CV Tracker](https://github.com/goryachev-ml/agrotech-cv-tracker)
 End-to-end Computer Vision пайплайн для трекинга объектов (подсчет цыплят на птицефабрике) с 99% точностью и отсевом аномалий.
 * **Стек:** YOLO + SAM-2 + OpenCV + Streamlit/Gradio. 
 * **Обработка и аугментация:** Подготовка, авторазметка и корректировка датасета (LabelStudio, RoboFlow, VGG)
